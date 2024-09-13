@@ -55,6 +55,12 @@ In the final year of my bachelor’s degree, I decided to continue my studies wi
      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge"/>
      <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy Badge"/>
      <img src="https://img.shields.io/badge/NLTK-85BF68?style=for-the-badge" alt="NLTK Badge"/>
+     <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge" alt="Spark Badge"/>
+     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge" alt="PyTorch Badge"/>
+     <img src="https://img.shields.io/badge/LangChain-0052CC?style=for-the-badge" alt="LangChain Badge"/>
+
+
+
 </h3>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
