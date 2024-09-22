@@ -21,9 +21,11 @@
 <br>
 
 
-I have always been passionate about statistics and math since my teenage years. One of my dreams was to become a programmer, and I aimed to blend these interests seamlessly.👩🏻‍💻 This led me to pursue a Bachelor’s degree in **Data Science** at Nova Information Management School in Lisbon, Portugal, in 2021. 🏫 Throughout the course, I worked primarily with programming languages like R and Python. I can say that I particularly enjoy working on machine learning projects, it is funny and there is so much that we could learn from data. 📊
+I have been passionate about statistics and math since my teenage years, and one of my dreams has always been to become a programmer. This aspiration led me to pursue a Bachelor's degree in Data Science at Nova Information Management School in Lisbon, Portugal, in 2021. 🏫 Throughout the course, I primarily worked with programming languages like R and Python. I particularly enjoy working on machine learning projects because they are both challenging and insightful, and there is so much we can learn from data. 📊
 
-In the final year of my bachelor’s degree, I decided to continue my studies with a master’s degree in the same field. I love learning , and even though I don’t have professional experience yet, I am committed to continually improving my expertise. 💪🏻 My goal is to learn more programming languages and deepen my knowledge in this field that I am passionate about.
+In the final year of my Bachelor's degree, I decided to continue my studies with a Master's degree in the same field. I love learning, and even though I don’t have professional experience yet, I am committed to continually improving my expertise. 💪🏻 My goal is to learn more programming languages and deepen my knowledge in this field that I am passionate about.
+
+I have created multiple repositories that feature a collection of academic projects in Data Science. Each repository showcases a different project completed during my university studies, demonstrating hands-on, real-world applications of Data Science concepts. 🚀
 
 ---
 
