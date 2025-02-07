@@ -1,5 +1,5 @@
 <h1 align="left">I'm Mariana <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h1>
-<h4 align="left"> <b>Aspiring Data Scientist | Master's Student in Data Science & Advanced Analytics</b></h4>
+<h4 align="left"> <b>Data Scientist | Master's Student in Data Science & Advanced Analytics</b></h4>
 
 <br>
 
