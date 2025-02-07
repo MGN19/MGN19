@@ -87,10 +87,6 @@ I have created multiple repositories that feature a collection of academic proje
     <img src="https://github-readme-stats.vercel.app/api?username=MGN19&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MGN19&theme=radical" alt="Your GitHub Streak"/>
-</p>
-
 <a href="https://github.com/MGN19?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 
